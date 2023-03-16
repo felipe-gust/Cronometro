@@ -1,0 +1,8 @@
+C:\workspace-csharp\Curso-BaltaIO\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\workspace-csharp\Curso-BaltaIO\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\workspace-csharp\Curso-BaltaIO\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\workspace-csharp\Curso-BaltaIO\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.AssemblyReference.cache
+C:\workspace-csharp\Curso-BaltaIO\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.SuggestedBindingRedirects.cache
+C:\workspace-csharp\Curso-BaltaIO\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+C:\workspace-csharp\Curso-BaltaIO\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\workspace-csharp\Curso-BaltaIO\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
